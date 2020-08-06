@@ -25,3 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanThomas-tamuq&layout=compact)](https://github.com/RoshanThomas-tamuq/Django-Ecommerce-Website)
 
+## Technologies & Tools
+<img src="https://img.shields.io/badge/Code-Django-blueviolet"> <img src="https://img.shields.io/badge/Code-Python-blueviolet"> <img src="https://img.shields.io/badge/Code-Vue-blueviolet"> <img src="https://img.shields.io/badge/Code-React JS-blueviolet"> <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet"> <img src="https://img.shields.io/badge/Cloud-Microsoft Azure-blueviolet"> <img src="https://img.shields.io/badge/OS-Windows-blueviolet">
