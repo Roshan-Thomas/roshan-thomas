@@ -17,7 +17,7 @@
 
 ## Featured Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=Django-Ecommerce-Website&theme=shades-of-purple)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=vue-weather-app&theme=shades-of-purple)](https://github.com/Roshan-Thomas/vue-weather-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=vue-weather-app&theme=shades-of-purple)](https://github.com/Roshan-Thomas/vue-weather-app) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=Django-Ecommerce-Website&theme=shades-of-purple)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website) 
 
 
 
