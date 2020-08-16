@@ -1,12 +1,13 @@
-### Namaste, I'm Roshan Thomas :pray:
+### Namaste, I'm Roshan Thomas :pray: 
 
 - 🔭 I’m currently working on Voice Controlled News Application
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Python Projects
 - 💬 Ask me about Python, C++, Front-End Web Development
 - ⚡ Fun fact: I love playing the guitar and piano. 
+- :house: I am currently residing in Qatar :qatar:
 
-:necktie: [Linkdin](https://www.linkedin.com/in/roshan-thomas-88b9a618b/) | :bird: [Twitter](https://twitter.com/RoshanSunilTho2) | :alien: [Portfolio](https://roshanthomas.netlify.app/)
+:necktie: [Linkdin](https://www.linkedin.com/in/roshan-thomas-88b9a618b/) | :bird: [Twitter](https://twitter.com/RoshanSunilTho2) | :octocat: [Portfolio](https://roshanthomas.netlify.app/) 
 
 ## Technologies & Tools
 <img src="https://img.shields.io/badge/Code-Django-blueviolet"> <img src="https://img.shields.io/badge/Code-Python-blueviolet"> <img src="https://img.shields.io/badge/Code-Vue-blueviolet"> <img src="https://img.shields.io/badge/Code-React JS-blueviolet"> <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet"> <img src="https://img.shields.io/badge/Cloud-Microsoft Azure-blueviolet"> <img src="https://img.shields.io/badge/OS-Windows-blueviolet">
