@@ -24,5 +24,5 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=vue-weather-app&theme=shades-of-purple)](https://github.com/Roshan-Thomas/vue-weather-app) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=Django-Ecommerce-Website&theme=shades-of-purple)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=Voice-Controlled-News-Reader-App&theme=shades-of-purple)](https://github.com/Roshan-Thomas/Voice-Controlled-News-Reader-App) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=React-Voice-Controlled-News-Reader-App&theme=shades-of-purple)](https://github.com/Roshan-Thomas/React-Voice-Controlled-News-Reader-App) 
 
