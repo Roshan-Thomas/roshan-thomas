@@ -1,8 +1,9 @@
-### Namaste, I'm Roshan Thomas :pray: 
-
 <p>
   <img align="right" width="400" src="https://github.com/Roshan-Thomas/Roshan-Thomas/blob/master/animation_500_kebulfpq.gif">
 </p>
+
+
+### Namaste, I'm Roshan Thomas :pray: 
 
 - 🔭 I’m currently working on Voice Controlled News Application
 - 🌱 I’m currently learning React
