@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love playing the guitar and piano. 
 - :house: I am currently residing in Qatar :qatar:
 
-:necktie: [Linkdin](https://www.linkedin.com/in/roshan-thomas-88b9a618b/) | :bird: [Twitter](https://twitter.com/RoshanSunilTho2) | :octocat: [Portfolio](https://roshanthomas.tech/) 
+:necktie: [Linkdin](https://www.linkedin.com/in/roshan-thomas-88b9a618b/) | :bird: [Twitter](https://twitter.com/RoshanSunilTho2) | :octocat: [Portfolio](https://www.roshanthomas.tech/) 
 
 ## Technologies & Tools
 <img src="https://img.shields.io/badge/Code-Django-blueviolet"> <img src="https://img.shields.io/badge/Code-Python-blueviolet"> <img src="https://img.shields.io/badge/Code-Vue-blueviolet"> <img src="https://img.shields.io/badge/Code-React JS-blueviolet"> <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet"> <img src="https://img.shields.io/badge/Cloud-Microsoft Azure-blueviolet"> <img src="https://img.shields.io/badge/OS-Windows-blueviolet">
