@@ -1,11 +1,16 @@
 ### Namaste, I'm Roshan Thomas :pray: 
 
+<p>
+  <img align="right" width="400" src="./animation_500_kebulfpq.gif">
+</p>
+
 - 🔭 I’m currently working on Voice Controlled News Application
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Python Projects
 - 💬 Ask me about Python, C++, Front-End Web Development
 - ⚡ Fun fact: I love playing the guitar and piano. 
 - :house: I am currently residing in Qatar :qatar:
+
 
 :necktie: [Linkdin](https://www.linkedin.com/in/roshan-thomas-88b9a618b/) | :bird: [Twitter](https://twitter.com/RoshanSunilTho2) | :octocat: [Portfolio](https://www.roshanthomas.tech/) 
 
