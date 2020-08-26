@@ -1,7 +1,7 @@
 ### Namaste, I'm Roshan Thomas :pray: 
 
 <p>
-  <img align="right" width="400" src="./animation_500_kebulfpq.gif">
+  <img align="right" width="400" src="https://github.com/Roshan-Thomas/Roshan-Thomas/blob/master/animation_500_kebulfpq.gif">
 </p>
 
 - 🔭 I’m currently working on Voice Controlled News Application
