@@ -5,10 +5,8 @@
 
 ### Namaste, I'm Roshan Thomas :pray: 
 
-- 🔭 I’m currently working on Voice Controlled News Application
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Python Projects
-- 💬 Ask me about Python, C++, Front-End Web Development
 - ⚡ Fun fact: I love playing the guitar and piano. 
 - :house: I am currently residing in Qatar :qatar:
 
@@ -32,4 +30,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=vue-weather-app&theme=shades-of-purple)](https://github.com/Roshan-Thomas/vue-weather-app) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=Django-Ecommerce-Website&theme=shades-of-purple)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=React-Voice-Controlled-News-Reader&theme=shades-of-purple)](https://github.com/Roshan-Thomas/React-Voice-Controlled-News-Reader) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=react-tailwindcss-pixabay-image-gallery&theme=shades-of-purple)](https://github.com/Roshan-Thomas/react-tailwindcss-pixabay-image-gallery) 
+
 
