@@ -26,10 +26,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Thomas&layout=compact)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website)
 
 ## Featured Repos
-
+<details>
+  <summary>:star: Click to Expand</summary>
+  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=vue-weather-app&theme=shades-of-purple)](https://github.com/Roshan-Thomas/vue-weather-app) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=Django-Ecommerce-Website&theme=shades-of-purple)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=React-Voice-Controlled-News-Reader&theme=shades-of-purple)](https://github.com/Roshan-Thomas/React-Voice-Controlled-News-Reader) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=react-tailwindcss-pixabay-image-gallery&theme=shades-of-purple)](https://github.com/Roshan-Thomas/react-tailwindcss-pixabay-image-gallery) 
 
-
+</details>
