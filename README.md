@@ -21,10 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Roshan-Thomas&&show_icons=true&theme=gotham">
 
-## Most Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Thomas&layout=compact)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website)
-
 ## Featured Repos
 <details>
   <summary>:star: Click to Expand</summary>
@@ -35,3 +31,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-Thomas&repo=react-tailwindcss-pixabay-image-gallery&theme=shades-of-purple)](https://github.com/Roshan-Thomas/react-tailwindcss-pixabay-image-gallery) 
 
 </details>
+
+<br>
+<br>
+
+## Most Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Thomas&layout=compact)](https://github.com/Roshan-Thomas/Django-Ecommerce-Website)
+
+
