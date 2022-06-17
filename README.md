@@ -1,5 +1,5 @@
 <p>
-  <img align="right" width="350" src="https://github.com/Roshan-Thomas/Roshan-Thomas/blob/master/animation_640_kece5qb9.gif" style="margin:5px">
+  <img align="right" width="350" src="https://github.com/Roshan-Thomas/Roshan-Thomas/blob/master/animation_640_kece5qb9.gif">
 </p>
 
 
