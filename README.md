@@ -1,6 +1,6 @@
 ### Namaste, I'm Roshan Thomas :pray: 
 
-I am an aspiring electrical engineer currently studying at Texas A&M University at Qatar and expected to graduate on May 2023. I am very passionate about quantum software devlopment and quantum computing. My coding journey has taken me through various technologies to create useful apps for the people around me or myself. Check out my projects below to get a glimpse of my journey so far.
+I am an aspiring electrical engineer currently studying at Texas A&M University at Qatar and expected to graduate in May 2023. I am very passionate about quantum software development and quantum computing. My coding journey has taken me through various technologies to create useful apps for the people around me or myself. Check out my projects below to get a glimpse of my journey so far.
 
 :necktie: [Linkdin](https://www.linkedin.com/in/roshan-sunil-thomas/) | :bird: [Twitter](https://twitter.com/roshan__thomas) | :octocat: [Portfolio](https://www.roshanthomas.tech/) 
 
